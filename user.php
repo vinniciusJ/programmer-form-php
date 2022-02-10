@@ -22,6 +22,7 @@
 
     <link rel="stylesheet" href="./styles/global.css">
     <link rel="stylesheet" href="./styles/user.css">
+    <link rel="shortcut icon" href="./images/logo.svg">
 
     <title>Dados cadastrados</title>
 </head>

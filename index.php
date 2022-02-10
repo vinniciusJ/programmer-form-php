@@ -12,6 +12,8 @@
     <link rel="stylesheet" href="./styles/global.css">
     <link rel="stylesheet" href="./styles/index.css">
 
+    <link rel="shortcut icon" href="./images/logo.svg">
+
     <title>Hobbies</title>
 </head>
 <body>
