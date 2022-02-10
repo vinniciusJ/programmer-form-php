@@ -1,0 +1,35 @@
+:root{
+    --black-200: rgba(72, 73, 73, 0.478)
+    --white: #FFF;
+
+    --light-blue-100: #EDF2FB;
+    --light-blue-300: #D3E0FA;
+    --light-blue-500: #BACDF9;
+    --light-blue-600: #A0BBF9;
+    --light-blue-700: #87A8F8;
+    --light-blue-800: #6D96F7;
+
+    font-size: 50%;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+    color: var(--black-200);
+    font-family: 'Lato', sans-serif;
+}
+
+button, input, textarea{
+    font-family: 'Lato', sans-serif;
+    outline: none;
+}
+
+p, h1, h2, h3, h4, h5, h6 {
+    overflow-wrap: break-word;
+}
+
+body{
+    line-height: 1.5;
+}
